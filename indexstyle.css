@@ -1,0 +1,1644 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#nav-section .navbar-nav li{
+    padding-left:30px;
+    font-size: 16px;
+}
+/*-- section-1 start--*/
+.section-1{
+    width:100%;
+    height:auto;
+}
+ .section-1 #top img{
+    width:100%;
+    height: auto;
+    margin-top: 100px;
+} 
+.section-1 #bottom img{
+    width:100%;
+    height: auto;
+} 
+/*-- section-1 End--*/
+/*-- section-2 start--*/
+.section-2{
+    width:100%;
+    background-color: black;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-2 #one{
+    width:33%;
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-2 #one #oneleft{
+    width:30%;
+    height:100%;
+    text-align: center;
+}
+.section-2 #one #oneleft img{
+    padding:30px 30px;
+}
+.section-2 #one #oneright{
+    width:70%;
+    height:100%;
+}
+.section-2 #one #oneright h4{
+    color:#fff;
+    font-size: 18px;
+    padding: 15px 20px 5px;
+    text-align: center;
+}
+.section-2 #one #oneright p{
+    color:#fff;
+    font-size: 18px;
+    margin-top:5px;
+    padding-left:20px;
+    text-align: center;
+}
+.section-2 #two{
+    width:33%;
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-2 #two #twoleft{
+    width:40%;
+    height:100%;
+    text-align: center;
+}
+.section-2 #two #twoleft img{
+    padding:30px 30px;
+}
+.section-2 #two #tworight{
+    width:60%;
+    height:100%;
+}
+.section-2 #two #tworight h4{
+    color:#fff;
+    font-size: 18px;
+    margin-top: 15px;
+    text-align: center;
+}
+.section-2 #two #tworight p{
+    color:#fff;
+    font-size: 18px;
+    margin-top:20px;
+    padding-left:20px;
+    text-align: center;
+}
+.section-2 #three{
+    width:33%;
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-2 #three #threeleft{
+    width:40%;
+    height:100%;
+    text-align: center;
+}
+.section-2 #three #threeleft img{
+    padding:30px 30px;
+}
+.section-2 #three #threeright{
+    width:60%;
+    height:100%;
+}
+.section-2 #three #threeright h4{
+    color:#fff;
+    font-size: 18px;
+    padding: 15px 20px 0px;
+    text-align: center;
+}
+.section-2 #three #threeright p{
+    color:#fff;
+    font-size: 18px;
+    margin-top:10px;
+    padding-left:20px;
+    text-align: center;
+}
+/*-- section-2 End--*/
+/*-- section-3 Start--*/
+.section-3{
+    width:100%;
+    height:90%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.section-3 h3{
+    font-size: 24px;
+    color:#1D4B87;
+    margin-left: 100px;
+}
+.section-3 #top{
+    width:50%;
+    height:100%;
+}
+.section-3 #top img{
+    width: 100%;
+    height: 100%;
+    margin-left: -118px;
+}
+.section-3 #bottom{
+    width:50%;
+    height:100%;
+}
+.section-3 #bottom h2{
+    font-size: 38px;
+    margin-top: 100px;
+    margin-left: 15px;
+}
+.section-3 #bottom p{
+    font-size: 26px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 15px;
+    text-align: justify;
+}
+/*-- section-3 End--*/
+
+/*-- section-4 Start--*/
+.section-4{
+    width:100%;
+    height:auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.section-4 h3{
+    font-size: 24px;
+    color:#1D4B87;
+    margin-left: 100px;
+}
+.section-4 #top{
+    width:50%;
+    height:100%;
+}
+.section-4 #top p{
+    font-size: 22px;
+    margin: 30px 0px;
+    text-align: justify;
+    font-weight: 500;
+}
+.section-4 #bottom{
+    width:50%;
+    height:100%;
+}
+.section-4 #bottom img{
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+/*-- section-4 End--*/
+/*-- section-5 Start--*/
+.section-5{
+    width:100%;
+    height:auto;
+    margin-top: 20px;
+    position: relative;
+}
+.section-5 h3{
+    font-size: 24px;
+    color:#1D4B87;
+    margin-left: 100px;
+}
+.section-5 h2{
+    font-size: 26px;
+    width: 100%;
+    background-color: #303231;
+    color: #fff;
+    text-align: center;
+    padding:10px 0px;
+}
+.section-5 #top{
+    width:100%;
+    height:20%;
+}
+.section-5 #top p{
+    font-size: 24px;
+    margin: 30px 0px;
+    text-align: justify;
+}
+.section-5 #bottom{
+    width:100%;
+    height:60%;
+    margin-left: 0px;
+}
+.section-5 #bottom h4{
+    font-size: 26px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    color: #1D4B87;
+}
+.section-5 #bottom i{
+    font-size: 30px;
+    margin-left: 15px;
+    color: #1D4B87;
+}
+.section-5 #bottom h5{
+    font-size: 26px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    font-weight: 400;
+}
+.section-5 #bottom #bottom1 #img1{
+    width:210%;
+    height:auto;
+    position: absolute;
+    top:-60px;
+    left:-200px;
+}
+.section-5 #bottom #bottom1 .button{
+    display: inline-block; 
+    padding: 10px 20px;
+    color: black; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    font-size: 18px;
+    transition:background-color 0.3s;
+    position: absolute;
+    top: 400px;
+    left:190px;
+    background-color: #FFF8F8;
+}
+
+.section-5 #bottom #bottom1 .button:hover{
+    background-color: #0056b3;
+}
+/*-- section-5 End--*/
+
+/*-- section-6 Start--*/
+.section-6{
+    width:100%;
+    height:auto;
+    margin-top: 50px;
+    position: relative;
+}
+.section-6 h3{
+    font-size: 24px;
+    color:#1D4B87;
+    margin-left: 100px;
+}
+.section-6 h2{
+    font-size: 26px;
+    width: 100%;
+    background-color: #303231;
+    color: #fff;
+    text-align: center;
+    padding:10px 0px;
+}
+.section-6 #top{
+    width:100%;
+    height:20%;
+}
+.section-6 #top p{
+    font-size: 24px;
+    margin: 30px 0px;
+    text-align: justify;
+}
+.section-6 #bottom{
+    width:100%;
+    height:60%;
+    margin-left: 0px;
+}
+.section-6 #bottom h4{
+    font-size: 26px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    color: #1D4B87;
+}
+.section-6 #bottom i{
+    font-size: 30px;
+    margin-left: 15px;
+    color: #1D4B87;
+}
+.section-6 #bottom h5{
+    font-size: 24px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+.section-6 #bottom #bottom1 img{
+    width:90%;
+    position:absolute;
+    left:-50px;
+    top:0px;
+}
+.section-6 #bottom #bottom1 .button{
+    display: inline-block; 
+    padding: 10px 20px;
+    color: black; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    font-size: 18px;
+    transition:background-color 0.3s;
+    position: absolute;
+    top: 415px;
+    left: 280px;
+    background-color: #FFF8F8;
+}
+.section-6 #bottom #bottom1 .button:hover{
+    background-color: #0056b3;
+}
+/*-- section-6 End--*/
+
+/*-- section-7 Start--*/
+.section-7{
+    width:100%;
+    height:100%;
+    margin-top:100px;
+    position: relative;
+}
+.section-7 h3{
+    font-size: 24px;
+    margin-left: 100px;
+    color:#1D4B87;
+}
+.section-7 .img-fluid{
+    width:100%;
+    height:100%;
+}
+.section-7 #leftpart{
+    width: 35%;
+    height: auto;
+    background-color: #FFF8F8;
+    position: absolute;
+    top: 450px;
+    left: 200px;
+    border-radius: 10px;
+}
+.section-7 #leftpart h4{
+    font-size: 30px;
+    font-weight: 700;
+    padding: 5px 40px;
+}
+.section-7 #rightpart{
+    width: 40%;
+    height: auto;
+    position: absolute;
+    left: 620px;
+    top: 100px;
+    margin-bottom: 20px;
+}  
+.section-7 #rightpart h4{
+    font-size: 25px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    text-align: justify;
+}
+.section-7 #rightpart form{
+    width:100%;
+    height:100%;
+    border-radius: 10px;
+    padding:25px 50px;
+    margin-top: 20px;
+    background-color:#FFF8F8;
+}
+.section-7 #rightpart form label{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.section-7 #rightpart form input{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.section-7 #rightpart form #gridCheck{
+    margin: 10px; 
+}
+.section-7 #rightpart form #exampleFormControlTextarea1{
+    margin-top: 19px;
+}
+.section-7 #rightpart button{
+    background-color: #1D4B87;
+    width: 90%;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+/*-- section-7 End--*/
+/*-- section-8 Start--*/
+.section-8{
+    width:100%;
+    height:80%;
+    margin-top: 150px;
+    margin-bottom: 80px;
+    position: relative;
+    background-color: lightgreen;
+}
+.section-8 h3{
+    font-size: 24px;
+    color:#1D4B87;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.section-8 .card{
+    width:100%;
+    height:240px;
+    border-radius: 5px; 
+    border: none;
+}
+.section-8 .card .card-left{
+    width:100%;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    position:absolute;
+    top:50px; 
+}
+.section-8 .card .card-left p{
+    font-size:16px;
+    padding:15px;
+    text-align: justify;
+}
+.section-8 .card .card-right{
+    width:100%;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    position:absolute;
+    top:0;
+    opacity: 0;
+}
+.section-8 .card .card-right i{
+    font-size:25px;
+    color: gold;
+    margin-left: 20px;
+    text-align: center;
+}
+.section-8 .card .card-right h6{
+    font-size:18px;
+    margin-left: 20px;
+}
+.section-8 .card .card-right h5{
+    font-size:18px;
+    margin-left: 20px;
+}
+.section-8 .card:hover .card-left{
+    transform: translateY(-50px);
+    transition: 0.5s;
+}
+.section-8 .card:hover .card-right{
+    transform: translateY(143px);
+    opacity: 1;
+    transition: 0.5s;
+}
+/*-- section-8 End--*/
+/*-- Footer Start--*/
+#footer1{
+    width:100%;
+    height:auto;
+    background-color: #0F172A;
+    position: relative;
+}
+#footer1 .top{
+    width:100%;
+    height:120px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#footer1 .top .foot-logo{
+    width:20%;
+    height: 120px;
+}
+ #footer1 .top .foot-list{
+    width:65%;
+    height: 120px;
+}
+#footer1 .top .foot-list ul{
+    display:flex;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#footer1 .top .foot-list ul li{
+    list-style-type: none;
+}
+#footer1 .top .foot-list ul li a{
+    text-decoration: none;
+    color:#fff;
+    text-transform: uppercase;
+}
+#footer1 .top .foot-list ul li a:hover{
+    color:orange;
+} 
+#footer1 .top .icons{
+    width: 15%;
+    height: 120px;
+    font-size: 20px;
+    padding-top: 50px;
+    cursor: pointer;
+}
+#footer1 .bottom #left h6{
+    font-size: 13px;
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 50px;
+}
+#footer1 .bottom #left h5{
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 50px;
+}
+#footer1 .bottom #right h6{
+    margin-top: 50px;
+    font-size: 13px;
+    text-align: right;
+    margin-right: 20px;
+}
+#footer1 .bottom #right h5{
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: right;
+    margin-right: 20px;
+}
+/*-- Footer End--*/
+@media (min-width:250px) and (max-width:359px) {
+     .section-1{
+        width:100%;
+        height:auto;
+    }
+    .section-1 #top img{
+        width:100%;
+        height: auto;
+        margin: 30px 0px;
+    }
+    .section-1 #bottom img{
+        width:100%;
+        height: auto;
+        margin-top: 0px;
+        margin-left: 15px;
+    } 
+    .section-2{
+        width:100%;
+        height:auto;
+    }
+    .section-2 #one #oneleft img{
+        padding:15px 10px;
+    }
+    .section-2 #one #oneright h4{
+        font-size: 16px;
+        padding: 0px 10px;
+    }
+    .section-2 #one #oneright p{
+        font-size: 14px;
+    }
+    .section-2 #two #twoleft img{
+        padding: 0px 0px;
+    }
+    .section-2 #two #tworight h4{
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .section-2 #two #tworight p{
+        font-size: 14px;
+        margin-top:10px;
+    }
+    .section-2 #three #threeleft img{
+        padding: 0px 0px;
+    }
+    .section-2 #three #threeright h4{
+        font-size: 16px;
+        padding: 5px 0px;
+    }
+    .section-2 #three #threeright p{
+        font-size: 14px;
+        margin-top:10px;
+    }
+    .section-3{
+        width:100%;
+        height:auto;
+    }
+    .section-3 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-3 #top img{
+        width: 100%;
+        margin-left:-15px;
+    }
+    .section-3 #bottom h2{
+        font-size: 22px;
+        margin-top: 25px;
+        margin-left: 15px;
+    }
+    .section-3 #bottom p{
+        font-size: 20px;
+        margin: 10px 15px;
+    }
+    .section-4{
+        width:100%;
+        height:auto;
+    }
+    .section-4 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-4 #top p{
+        font-size: 18px;
+        margin: 10px 15px;
+    }
+    .section-4 #bottom img{
+        width: 100%;
+        height: auto;
+        margin: 25px 0px;
+    }
+    .section-5{
+        width:100%;
+        height:150vh;
+    }
+    .section-5 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-5 h2{
+        font-size: 18px;
+        padding:10px 0px;
+    }
+    .section-5 #top p{
+        font-size: 16px;
+        margin: 10px 5px;
+    }
+    .section-5 #bottom h4{
+        font-size: 20px;
+        margin-top: -40px;
+        margin-bottom: 20px;
+    }
+    .section-5 #bottom i{
+        font-size: 20px;
+    }
+    .section-5 #bottom h5{
+        font-size: 16px;
+        margin-top: 4px;
+        margin-bottom: 15px;
+        margin-left: 11px;
+    }
+    .section-5 #bottom #bottom1 #img1{
+        width: 95%;
+        height: auto;
+        position: absolute;
+        top: -25px;
+        left: -25px;
+    }
+    .section-5 #bottom #bottom1 .button{
+        padding: 10px 10px;
+        font-size: 14px;
+        position: absolute;
+        top: 250px;
+        left: 180px;
+    }
+    .section-6{
+        width:100%;
+        height:140vh;
+    }
+    .section-6 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-6 h2{
+        font-size: 18px;
+        padding:10px 0px;
+    }
+    .section-6 #top p{
+        font-size: 16px;
+        margin: 10px 5px;
+    }
+    .section-6 #bottom h4{
+        font-size: 20px;
+        margin-top: -40px;
+        margin-bottom: 20px;
+    }
+    .section-6 #bottom i{
+        font-size: 20px;
+    }
+    .section-6 #bottom h5{
+        font-size: 16px;
+        margin-top: 4px;
+        margin-bottom: 15px;
+        margin-left: 11px;
+    }
+    .section-6 #bottom #bottom1 img{
+        width: 70%;
+        position: absolute;
+        left: 40px;
+        top: 0px;
+    }
+    .section-6 #bottom #bottom1 .button{
+        padding: 10px 10px;
+        font-size: 14px;
+        position: absolute;
+        top: 205px;
+        left: 200px;
+    }
+    .section-7{
+        width:100%;
+        height:135vh;
+        margin-top:20px;
+    }
+    .section-7 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-7 .img-fluid{
+        width:100%;
+        height:100vh;
+    }
+    .section-7 #leftpart{
+        width: 90%;
+        height: auto;
+        position: absolute;
+        top: 45px;
+        left: 15px;
+    }
+    .section-7 #leftpart h4{
+        font-size: 20px;
+        padding: 5px 30px;
+    }
+    .section-7 #rightpart{
+        width: 100%;
+        height: auto;
+        position: absolute;
+        left: 0px;
+        top: 90px;
+        margin-bottom: 20px;
+    }  
+    .section-7 #rightpart h4{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .section-7 #rightpart form{
+        width: 100%;
+        height: auto;
+        padding: 20px 20px;
+        margin-top: 15px;
+    }
+    .section-7 #rightpart form label{
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .section-7 #rightpart form input{
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .section-7 #rightpart form #gridCheck{
+        margin: 10px; 
+    }
+    .section-7 #rightpart form #exampleFormControlTextarea1{
+        margin-top: 10px;
+    }
+    .section-7 #rightpart button{
+        width: 90%;
+        font-size: 15px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    } 
+    .section-8{
+        width:100%;
+        height:auto;
+        margin-top: 40px;
+        margin-bottom: 80px;
+        position: relative;
+    }
+    .section-8 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-8 .card{
+        width:100%;
+        height:240px;
+    }
+    .section-8 .card .card-left{
+        width:100%;
+        box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+        position:absolute;
+        top:50px; 
+    }
+    .section-8 .card .card-left p{
+        font-size:16px;
+        padding:15px;
+        text-align: justify;
+    }
+    .section-8 .card .card-right{
+        width:100%;
+        box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+        position:absolute;
+        top:0;
+        opacity: 0;
+    }
+    .section-8 .card .card-right i{
+        font-size:25px;
+        color: gold;
+        margin-left: 20px;
+        text-align: center;
+    }
+    .section-8 .card .card-right h6{
+        font-size:18px;
+        margin-left: 20px;
+    }
+    .section-8 .card .card-right h5{
+        font-size:18px;
+        margin-left: 20px;
+    }
+    .section-8 .card:hover .card-left{
+        transform: translateY(-50px);
+        transition: 0.5s;
+    }
+    .section-8 .card:hover .card-right{
+        transform: translateY(143px);
+        opacity: 1;
+        transition: 0.5s;
+    }
+    #footer1{
+        width:100%;
+        height:auto;
+        position: relative;
+    }
+    #footer1 .top{
+        width:100%;
+        height:auto;
+        display:flex;
+        flex-direction: column;
+    }
+    #footer1 .top .foot-logo{
+        width:auto;
+        height: auto;
+    }
+     #footer1 .top .foot-list{
+        width:100%;
+        height: auto;
+    }
+    #footer1 .top .foot-list ul{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+        margin-top:15px;
+        margin-left: 0px;
+    }
+    #footer1 .top .icons{
+        width: 100%;
+        height: auto;
+        font-size: 20px;
+        padding-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #footer1 .bottom #left h6{
+        font-size: 13px;
+        margin-top: 10px;
+        text-align: center;
+        margin-left: 0px;
+    }
+    #footer1 .bottom #left h5{
+        margin-top: 10px;
+        font-size: 14px;
+        text-align: left;
+        margin-left: 50px;
+    }
+    #footer1 .bottom #right h6{
+        margin-top: 10px;
+        font-size: 13px;
+        text-align: center;
+        margin-right: 0px;
+    }
+    #footer1 .bottom #right h5{
+        margin-top: 10px;
+        font-size: 14px;
+        text-align: center;
+        margin-right: 0px
+    }
+}
+@media (min-width:360px) and (max-width:419px) {  
+    .section-1{
+        width:100%;
+        height:auto;
+    }
+    .section-1 #top img{
+        width:100%;
+        height: auto;
+        margin: 30px 0px;
+    }
+    .section-1 #bottom img{
+        width:100%;
+        height: auto;
+        margin-top: 0px;
+        margin-left: 15px;
+    } 
+    .section-2{
+        width:100%;
+        height:auto;
+    }
+    .section-2 #one #oneleft img{
+        padding:15px 10px;
+    }
+    .section-2 #one #oneright h4{
+        font-size: 16px;
+        padding: 0px 10px;
+    }
+    .section-2 #one #oneright p{
+        font-size: 14px;
+    }
+    .section-2 #two #twoleft img{
+        padding: 0px 0px;
+    }
+    .section-2 #two #tworight h4{
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .section-2 #two #tworight p{
+        font-size: 14px;
+        margin-top:10px;
+    }
+    .section-2 #three #threeleft img{
+        padding: 0px 0px;
+    }
+    .section-2 #three #threeright h4{
+        font-size: 16px;
+        padding: 5px 0px;
+    }
+    .section-2 #three #threeright p{
+        font-size: 14px;
+        margin-top:10px;
+    }
+    .section-3{
+        width:100%;
+        height:auto;
+    }
+    .section-3 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-3 #top img{
+        width: 100%;
+        margin-left:-15px;
+    }
+    .section-3 #bottom h2{
+        font-size: 22px;
+        margin-top: 25px;
+        margin-left: 15px;
+    }
+    .section-3 #bottom p{
+        font-size: 20px;
+        margin: 10px 15px;
+    }
+    .section-4{
+        width:100%;
+        height:auto;
+    }
+    .section-4 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-4 #top p{
+        font-size: 18px;
+        margin: 10px 15px;
+    }
+    .section-4 #bottom img{
+        width: 100%;
+        height: auto;
+        margin: 25px 0px;
+    }
+    .section-5{
+        width:100%;
+        height:150vh;
+    }
+    .section-5 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-5 h2{
+        font-size: 18px;
+        padding:10px 0px;
+    }
+    .section-5 #top p{
+        font-size: 16px;
+        margin: 10px 5px;
+    }
+    .section-5 #bottom h4{
+        font-size: 20px;
+        margin-top: -40px;
+        margin-bottom: 20px;
+    }
+    .section-5 #bottom i{
+        font-size: 20px;
+    }
+    .section-5 #bottom h5{
+        font-size: 16px;
+        margin-top: 4px;
+        margin-bottom: 15px;
+        margin-left: 11px;
+    }
+    .section-5 #bottom #bottom1 #img1{
+        width: 95%;
+        height: auto;
+        position: absolute;
+        top: -35px;
+        left: -20px;
+    }
+    .section-5 #bottom #bottom1 .button{
+        padding: 10px 10px;
+        font-size: 14px;
+        position: absolute;
+        top: 275px;
+        left: 240px;
+    }
+    .section-6{
+        width:100%;
+        height:140vh;
+    }
+    .section-6 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-6 h2{
+        font-size: 18px;
+        padding:10px 0px;
+    }
+    .section-6 #top p{
+        font-size: 16px;
+        margin: 10px 5px;
+    }
+    .section-6 #bottom h4{
+        font-size: 20px;
+        margin-top: -40px;
+        margin-bottom: 20px;
+    }
+    .section-6 #bottom i{
+        font-size: 20px;
+    }
+    .section-6 #bottom h5{
+        font-size: 16px;
+        margin-top: 4px;
+        margin-bottom: 15px;
+        margin-left: 11px;
+    }
+    .section-6 #bottom #bottom1 img{
+        width: 70%;
+        position: absolute;
+        left: 40px;
+        top: 0px;
+    }
+    .section-6 #bottom #bottom1 .button{
+        padding: 10px 10px;
+        font-size: 14px;
+        position: absolute;
+        top: 245px;
+        left: 225px;
+    }
+    .section-7{
+        width:100%;
+        height:135vh;
+        margin-top:20px;
+    }
+    .section-7 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-7 .img-fluid{
+        width:100%;
+        height:100vh;
+    }
+    .section-7 #leftpart{
+        width: 90%;
+        height: auto;
+        position: absolute;
+        top: 45px;
+        left: 15px;
+    }
+    .section-7 #leftpart h4{
+        font-size: 20px;
+        padding: 5px 30px;
+    }
+    .section-7 #rightpart{
+        width: 100%;
+        height: auto;
+        position: absolute;
+        left: 0px;
+        top: 90px;
+        margin-bottom: 20px;
+    }  
+    .section-7 #rightpart h4{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .section-7 #rightpart form{
+        width: 100%;
+        height: auto;
+        padding: 20px 20px;
+        margin-top: 15px;
+    }
+    .section-7 #rightpart form label{
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .section-7 #rightpart form input{
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .section-7 #rightpart form #gridCheck{
+        margin: 10px; 
+    }
+    .section-7 #rightpart form #exampleFormControlTextarea1{
+        margin-top: 10px;
+    }
+    .section-7 #rightpart button{
+        width: 90%;
+        font-size: 15px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    } 
+    .section-8{
+        width:100%;
+        height:auto;
+        margin-top: 40px;
+        margin-bottom: 80px;
+        position: relative;
+    }
+    .section-8 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-8 .card{
+        width:100%;
+        height:240px;
+    }
+    .section-8 .card .card-left{
+        width:100%;
+        box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+        position:absolute;
+        top:50px; 
+    }
+    .section-8 .card .card-left p{
+        font-size:16px;
+        padding:15px;
+        text-align: justify;
+    }
+    .section-8 .card .card-right{
+        width:100%;
+        box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+        position:absolute;
+        top:0;
+        opacity: 0;
+    }
+    .section-8 .card .card-right i{
+        font-size:25px;
+        color: gold;
+        margin-left: 20px;
+        text-align: center;
+    }
+    .section-8 .card .card-right h6{
+        font-size:18px;
+        margin-left: 20px;
+    }
+    .section-8 .card .card-right h5{
+        font-size:18px;
+        margin-left: 20px;
+    }
+    .section-8 .card:hover .card-left{
+        transform: translateY(-50px);
+        transition: 0.5s;
+    }
+    .section-8 .card:hover .card-right{
+        transform: translateY(143px);
+        opacity: 1;
+        transition: 0.5s;
+    }
+    #footer1{
+        width:100%;
+        height:auto;
+        position: relative;
+    }
+    #footer1 .top{
+        width:100%;
+        height:auto;
+        display:flex;
+        flex-direction: column;
+    }
+    #footer1 .top .foot-logo{
+        width:auto;
+        height: auto;
+    }
+     #footer1 .top .foot-list{
+        width:100%;
+        height: auto;
+    }
+    #footer1 .top .foot-list ul{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+        margin-top:15px;
+        margin-left: 0px;
+    }
+    #footer1 .top .icons{
+        width: 100%;
+        height: auto;
+        font-size: 20px;
+        padding-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #footer1 .bottom #left h6{
+        font-size: 13px;
+        margin-top: 10px;
+        text-align: center;
+        margin-left: 0px;
+    }
+    #footer1 .bottom #left h5{
+        margin-top: 10px;
+        font-size: 14px;
+        text-align: left;
+        margin-left: 50px;
+    }
+    #footer1 .bottom #right h6{
+        margin-top: 10px;
+        font-size: 13px;
+        text-align: center;
+        margin-right: 0px;
+    }
+    #footer1 .bottom #right h5{
+        margin-top: 10px;
+        font-size: 14px;
+        text-align: center;
+        margin-right: 0px
+    } 
+}
+@media (min-width:420px) and (max-width:479px) {
+    .section-1{
+        width:100%;
+        height:auto;
+    }
+    .section-1 #top img{
+        width:100%;
+        height: auto;
+        margin: 30px 0px;
+    }
+    .section-1 #bottom img{
+        width:100%;
+        height: auto;
+        margin-top: 0px;
+        margin-left: 15px;
+    } 
+    .section-2{
+        width:100%;
+        height:auto;
+    }
+    .section-2 #one #oneleft img{
+        padding:15px 10px;
+    }
+    .section-2 #one #oneright h4{
+        font-size: 16px;
+        padding: 0px 10px;
+    }
+    .section-2 #one #oneright p{
+        font-size: 14px;
+    }
+    .section-2 #two #twoleft img{
+        padding: 0px 0px;
+    }
+    .section-2 #two #tworight h4{
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .section-2 #two #tworight p{
+        font-size: 14px;
+        margin-top:10px;
+    }
+    .section-2 #three #threeleft img{
+        padding: 0px 0px;
+    }
+    .section-2 #three #threeright h4{
+        font-size: 16px;
+        padding: 5px 0px;
+    }
+    .section-2 #three #threeright p{
+        font-size: 14px;
+        margin-top:10px;
+    }
+    .section-3{
+        width:100%;
+        height:auto;
+    }
+    .section-3 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-3 #top img{
+        width: 100%;
+        margin-left:-15px;
+    }
+    .section-3 #bottom h2{
+        font-size: 22px;
+        margin-top: 25px;
+        margin-left: 15px;
+    }
+    .section-3 #bottom p{
+        font-size: 20px;
+        margin: 10px 15px;
+    }
+    .section-4{
+        width:100%;
+        height:auto;
+    }
+    .section-4 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-4 #top p{
+        font-size: 18px;
+        margin: 10px 15px;
+    }
+    .section-4 #bottom img{
+        width: 100%;
+        height: auto;
+        margin: 25px 0px;
+    }
+    .section-5{
+        width:100%;
+        height:150vh;
+    }
+    .section-5 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-5 h2{
+        font-size: 18px;
+        padding:10px 0px;
+    }
+    .section-5 #top p{
+        font-size: 16px;
+        margin: 10px 5px;
+    }
+    .section-5 #bottom h4{
+        font-size: 20px;
+        margin-top: -40px;
+        margin-bottom: 20px;
+    }
+    .section-5 #bottom i{
+        font-size: 20px;
+    }
+    .section-5 #bottom h5{
+        font-size: 16px;
+        margin-top: 4px;
+        margin-bottom: 15px;
+        margin-left: 11px;
+    }
+    .section-5 #bottom #bottom1 #img1{
+        width: 95%;
+        height: auto;
+        position: absolute;
+        top: -50px;
+        left: -20px;
+    }
+    .section-5 #bottom #bottom1 .button{
+        padding: 10px 10px;
+        font-size: 14px;
+        position: absolute;
+        top: 300px;
+        left: 300px;
+    }
+    .section-6{
+        width:100%;
+        height:140vh;
+    }
+    .section-6 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-6 h2{
+        font-size: 18px;
+        padding:10px 0px;
+    }
+    .section-6 #top p{
+        font-size: 16px;
+        margin: 10px 5px;
+    }
+    .section-6 #bottom h4{
+        font-size: 20px;
+        margin-top: -40px;
+        margin-bottom: 20px;
+    }
+    .section-6 #bottom i{
+        font-size: 20px;
+    }
+    .section-6 #bottom h5{
+        font-size: 16px;
+        margin-top: 4px;
+        margin-bottom: 15px;
+        margin-left: 11px;
+    }
+    .section-6 #bottom #bottom1 img{
+        width: 70%;
+        position: absolute;
+        left: 60px;
+        top: 0px;
+    }
+    .section-6 #bottom #bottom1 .button{
+        padding: 10px 10px;
+        font-size: 14px;
+        position: absolute;
+        top: 275px;
+        left: 275px;
+    }
+    .section-7{
+        width:100%;
+        height:135vh;
+        margin-top:20px;
+    }
+    .section-7 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-7 .img-fluid{
+        width:100%;
+        height:100vh;
+    }
+    .section-7 #leftpart{
+        width: 90%;
+        height: auto;
+        position: absolute;
+        top: 45px;
+        left: 15px;
+    }
+    .section-7 #leftpart h4{
+        font-size: 20px;
+        padding: 5px 30px;
+    }
+    .section-7 #rightpart{
+        width: 100%;
+        height: auto;
+        position: absolute;
+        left: 0px;
+        top: 90px;
+        margin-bottom: 20px;
+    }  
+    .section-7 #rightpart h4{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .section-7 #rightpart form{
+        width: 100%;
+        height: auto;
+        padding: 20px 20px;
+        margin-top: 15px;
+    }
+    .section-7 #rightpart form label{
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .section-7 #rightpart form input{
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .section-7 #rightpart form #gridCheck{
+        margin: 10px; 
+    }
+    .section-7 #rightpart form #exampleFormControlTextarea1{
+        margin-top: 10px;
+    }
+    .section-7 #rightpart button{
+        width: 90%;
+        font-size: 15px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    } 
+    .section-8{
+        width:100%;
+        height:auto;
+        margin-top: 40px;
+        margin-bottom: 80px;
+        position: relative;
+    }
+    .section-8 h3{
+        font-size: 18px;
+        margin-left: 15px;
+    }
+    .section-8 .card{
+        width:100%;
+        height:240px;
+    }
+    .section-8 .card .card-left{
+        width:100%;
+        box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+        position:absolute;
+        top:50px; 
+    }
+    .section-8 .card .card-left p{
+        font-size:16px;
+        padding:15px;
+        text-align: justify;
+    }
+    .section-8 .card .card-right{
+        width:100%;
+        box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+        position:absolute;
+        top:0;
+        opacity: 0;
+    }
+    .section-8 .card .card-right i{
+        font-size:25px;
+        color: gold;
+        margin-left: 20px;
+        text-align: center;
+    }
+    .section-8 .card .card-right h6{
+        font-size:18px;
+        margin-left: 20px;
+    }
+    .section-8 .card .card-right h5{
+        font-size:18px;
+        margin-left: 20px;
+    }
+    .section-8 .card:hover .card-left{
+        transform: translateY(-50px);
+        transition: 0.5s;
+    }
+    .section-8 .card:hover .card-right{
+        transform: translateY(143px);
+        opacity: 1;
+        transition: 0.5s;
+    }
+    #footer1{
+        width:100%;
+        height:auto;
+        position: relative;
+    }
+    #footer1 .top{
+        width:100%;
+        height:auto;
+        display:flex;
+        flex-direction: column;
+    }
+    #footer1 .top .foot-logo{
+        width:auto;
+        height: auto;
+    }
+     #footer1 .top .foot-list{
+        width:100%;
+        height: auto;
+    }
+    #footer1 .top .foot-list ul{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+        margin-top:15px;
+        margin-left: 0px;
+    }
+    #footer1 .top .icons{
+        width: 100%;
+        height: auto;
+        font-size: 20px;
+        padding-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #footer1 .bottom #left h6{
+        font-size: 13px;
+        margin-top: 10px;
+        text-align: center;
+        margin-left: 0px;
+    }
+    #footer1 .bottom #left h5{
+        margin-top: 10px;
+        font-size: 14px;
+        text-align: left;
+        margin-left: 50px;
+    }
+    #footer1 .bottom #right h6{
+        margin-top: 10px;
+        font-size: 13px;
+        text-align: center;
+        margin-right: 0px;
+    }
+    #footer1 .bottom #right h5{
+        margin-top: 10px;
+        font-size: 14px;
+        text-align: center;
+        margin-right: 0px
+    }
+}
+@media (min-width:480px) and (max-width:559px) {}
+@media (min-width:560px) and (max-width:767px){}
+@media (min-width:768px) and (max-width:991px) {}
+@media (min-width:992px) and (max-width:1024px) {}
+@media (min-width:1025px) and (max-width:1189px) {}
+@media (min-width:1190px) and (max-width:1280px) {}
+@media (min-width:1281px) and (max-width:1366px) {}
+@media (min-width:1367px) and (max-width:1440px) {}
+@media (min-width:1441px) and (max-width:1536px) {}
